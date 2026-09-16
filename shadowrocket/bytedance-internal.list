@@ -1,0 +1,28 @@
+# ByteDance / TikTok Internal Domain Rule Set
+# For Shadowrocket Remote Rule Set
+
+DOMAIN-SUFFIX,bytedance.net
+DOMAIN-SUFFIX,byted.org
+DOMAIN-SUFFIX,ibyted.com
+DOMAIN-SUFFIX,byteintl.net
+DOMAIN-SUFFIX,byteoversea.net
+
+DOMAIN-SUFFIX,tiktok-row.net
+DOMAIN-SUFFIX,tiktok-row.org
+DOMAIN-SUFFIX,tiktokr.org
+
+DOMAIN-SUFFIX,tiktok-eu.net
+DOMAIN-SUFFIX,tiktok-eu.org
+DOMAIN-SUFFIX,tiktoke.net
+DOMAIN-SUFFIX,tiktoke.org
+
+DOMAIN-SUFFIX,tiktokd-usts.net
+DOMAIN-SUFFIX,tiktokd.org
+
+DOMAIN-SUFFIX,tiktok-us.net
+DOMAIN-SUFFIX,tiktok-us.org
+
+DOMAIN-SUFFIX,tiktok-usts.net
+DOMAIN-SUFFIX,tiktok-usts.org
+
+DOMAIN-SUFFIX,sinf.net
